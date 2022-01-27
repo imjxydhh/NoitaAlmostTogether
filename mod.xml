@@ -1,7 +1,7 @@
 <Mod
 	name="my_first_mod"
 	description="Hello World"
-	request_no_api_restrictions="0" 
+	request_no_api_restrictions="1" 
 > 
 </Mod>
 
